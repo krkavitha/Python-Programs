@@ -7,4 +7,4 @@ def factorial(n):
     return (n * (factorial(n - 1)))
   
   
-print factorial(i)
+print factorial(10)
